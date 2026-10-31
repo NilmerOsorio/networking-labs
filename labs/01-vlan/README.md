@@ -74,12 +74,14 @@ All six PCs use **static IPv4 addresses**. DNS is not required for this activity
 
 ## ✅ Verification checklist
 
-- [ ] Compare the topology and settings with the activity requirements.
-- [ ] Review VLAN membership with `show vlan brief`.
-- [ ] Check applicable trunk links with `show interfaces trunk`.
-- [ ] Test the expected connectivity and isolation between hosts.
-- [ ] Record actual results and add supporting evidence.
+- [x] Compare the topology and settings with the activity requirements.
+- [x] Review VLAN membership with `show vlan brief`.
+- [x] Check applicable trunk links with `show interfaces trunk`.
+- [x] Test the expected connectivity and isolation between hosts.
+- [x] Record actual results and add supporting evidence.
 
 ## 💡 Conclusions
 
-After verification, summarize what you learned and any configuration issues you resolved.
+I learned how to build and configure a network in **Cisco Packet Tracer** using three switches, six PCs, and a router. I created VLANs, assigned access ports, configured trunk links, and set IP addresses, subnet masks, and default gateways.
+
+I also implemented **router-on-a-stick** for inter-VLAN communication and verified connectivity using `ping` and Cisco IOS commands. Along the way, I practiced systematic troubleshooting and saving device configurations, strengthening my understanding of how switching, addressing, and routing work together.
