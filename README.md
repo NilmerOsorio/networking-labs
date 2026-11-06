@@ -35,10 +35,12 @@ Each activity includes the files and documentation relevant to its requirements.
 | Lab | Topic | Documentation |
 | --- | --- | --- |
 | 01 | VLAN Configuration | [Explore the activity](labs/01-vlan/README.md) |
+| 02 | Create a Simple Network | [Explore the activity](labs/02-create-a-simple-network/README.md) |
+| 03.01 | Static Routing | [Explore the activity](labs/03-routing/01-static-routing/README.md) |
 
 Activities are organized into individual folders under `labs/`. Each folder contains its own README, Packet Tracer project, and supporting materials as they are added.
 
-To explore a lab, read its documentation and open the `.pkt` file in **Cisco Packet Tracer**.
+To explore a lab, read its documentation and open its `.pkt` project or `.pka` activity file in **Cisco Packet Tracer**.
 
 ## 📚 My Learning Approach
 
