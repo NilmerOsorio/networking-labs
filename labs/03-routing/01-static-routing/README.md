@@ -98,4 +98,4 @@ When troubleshooting, I can check the PC’s address and gateway, use `show ip i
 
 This lab helped me understand how a packet finds its way across multiple networks and become more comfortable configuring routers through the CLI. My next step is to explore default routes and compare static routing with dynamic routing.
 
-Feel free to explore the addressing tables and try the lab yourself! 🌱
+Feel free to explore the addressing tables and try the lab yourself
