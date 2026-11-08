@@ -37,6 +37,7 @@ Each activity includes the files and documentation relevant to its requirements.
 | 01 | VLAN Configuration | [Explore the activity](labs/01-vlan/README.md) |
 | 02 | Create a Simple Network | [Explore the activity](labs/02-create-a-simple-network/README.md) |
 | 03.01 | Static Routing | [Explore the activity](labs/03-routing/01-static-routing/README.md) |
+| 03.02 | Dynamic Routing with RIP | [Explore the activity](labs/03-routing/02-dynamic-routing/README.md) |
 
 Activities are organized into individual folders under `labs/`. Each folder contains its own README, Packet Tracer project, and supporting materials as they are added.
 
